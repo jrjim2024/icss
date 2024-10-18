@@ -1,5 +1,7 @@
 # icss
 
+類神經網路-內部選課系統
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
